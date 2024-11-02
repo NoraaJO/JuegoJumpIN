@@ -1,0 +1,1620 @@
+1
+hoyo 1 1
+hongo 1 2
+hongo 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+vacio 2 3
+hongo 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+conejo 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+2
+hoyo 1 1
+vacio 1 2
+conejo 1 3
+hongo 1 4
+hoyo Conejo 1 5
+vacio 2 1
+vacio 2 2
+vacio 2 3
+vacio 2 4
+hongo 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+hongo 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+3
+hoyo 1 1
+conejo 1 2
+vacio 1 3
+hongo 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+hongo 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+hongo 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+4
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+vacio 2 3
+vacio 2 4
+vacio 2 5
+conejo 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+vacio 3 5
+hongo 4 1
+vacio 4 2
+hongo 4 3
+vacio 4 4
+hongo 4 5
+hoyo 5 1
+conejo 5 2
+vacio 5 3
+hongo 5 4
+hoyo 5 5
+-
+5
+hoyo 1 1
+vacio 1 2
+conejo 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+hongo 2 2
+vacio 2 3
+vacio 2 4
+vacio 2 5
+hongo 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+vacio 3 5
+hongo 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo Conejo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+6
+hoyo Conejo 1 1
+hongo 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+hongo 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+hongo 3 2
+hoyo 3 3
+conejo 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+7
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+vacio 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+conejo 3 4
+vacio 3 5
+vacio 4 1
+hongo 4 2
+hongo 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+hongo 5 4
+hoyo Conejo 5 5
+-
+8
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+vacio 2 3
+vacio 2 4
+hongo 2 5
+conejo 3 1
+hongo 3 2
+hoyo Conejo 3 3
+hongo 3 4
+conejo 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+9
+hoyo Conejo 1 1
+hongo 1 2
+vacio 1 3
+hongo 1 4
+hoyo Conejo 1 5
+vacio 2 1
+vacio 2 2
+hongo 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+conejo 5 3
+vacio 5 4
+hoyo 5 5
+-
+10
+hoyo Conejo 1 1
+hongo 1 2
+conejo 1 3
+hongo 1 4
+hoyo Conejo 1 5
+hongo 2 1
+vacio 2 2
+vacio 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+11
+hoyo Conejo 1 1
+hongo 1 2
+vacio 1 3
+conejo 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+hongo 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+conejo 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+hongo 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+12
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+vacio 2 3
+vacio 2 4
+vacio 2 5
+conejo 3 1
+conejo 3 2
+hoyo 3 3
+vacio 3 4
+conejo 3 5
+vacio 4 1
+hongo 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+hongo 5 3
+hongo 5 4
+hoyo 5 5
+-
+13
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+hongo 1 4
+hoyo 1 5
+vacio 2 1
+hongo 2 2
+conejo 2 3
+h Fox H 1 2 4
+t Fox H 1 2 5
+vacio 3 1
+vacio 3 2
+hongo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+14
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+conejo 1 4
+hoyo 1 5
+vacio 2 1
+t Fox H 1 2 2
+h Fox H 1 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+hongo 3 2
+hongo 3 3
+vacio 3 4
+hongo 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+15
+hoyo 1 1
+vacio 1 2
+hongo 1 3
+t Fox V 1 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+vacio 2 3
+h Fox V 1 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hongo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+hongo 4 3
+vacio 4 4
+conejo 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+16
+hoyo 1 1
+conejo 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+hongo 2 1
+vacio 2 2
+vacio 2 3
+vacio 2 4
+vacio 2 5
+hongo 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+h Fox V 1 4 2
+hongo 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+t Fox V 1 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+17
+hoyo 1 1
+h Fox V 1 1 2
+vacio 1 3
+t Fox V 2 1 4
+hoyo 1 5
+vacio 2 1
+t Fox V 1 2 2
+vacio 2 3
+h Fox V 2 2 4
+hongo 2 5
+hongo 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+hongo 3 5
+conejo 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+18
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+h Fox H 1 2 3
+t Fox H 1 2 4
+vacio 2 5
+hongo 3 1
+vacio 3 2
+hoyo 3 3
+hongo 3 4
+vacio 3 5
+t Fox H 2 4 1
+h Fox H 2 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hongo 5 1
+vacio 5 2
+vacio 5 3
+conejo 5 4
+hoyo 5 5
+-
+19
+hoyo 1 1
+vacio 1 2
+hongo 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+conejo 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+t Fox V 1 3 4
+hongo 3 5
+vacio 4 1
+vacio 4 2
+hongo 4 3
+h Fox V 1 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+20
+hoyo 1 1
+conejo 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+vacio 2 3
+vacio 2 4
+vacio 2 5
+hongo 3 1
+vacio 3 2
+hongo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+h Fox V 1 4 2
+hongo 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+t Fox H 1 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+21
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+conejo 1 4
+hoyo 1 5
+t Fox H 1 2 1
+h Fox H 1 2 2
+vacio 2 3
+vacio 2 4
+vacio 2 5
+hongo 3 1
+vacio 3 2
+hoyo 3 3
+hongo 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+hongo 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+22
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+vacio 2 3
+t Fox V 1 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+h Fox V 1 3 4
+vacio 3 5
+vacio 4 1
+conejo 4 2
+vacio 4 3
+h Fox H 2 4 4
+t Fox H 2 4 5
+hoyo 5 1
+hongo 5 2
+hongo 5 3
+vacio 5 4
+hoyo 5 5
+-
+23
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+conejo 1 4
+hongo 1 5
+t Fox H 1 2 1
+h Fox H 1 2 2
+vacio 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+hongo 3 4
+vacio 3 5
+vacio 4 1
+h Fox V 2 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+t Fox V 2 5 2
+hongo 5 3
+vacio 5 4
+hoyo 5 5
+-
+24
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hongo 1 5
+vacio 2 1
+vacio 2 2
+hongo 2 3
+t Fox V 1 2 4
+conejo 2 5
+vacio 3 1
+vacio 3 2
+hongo 3 3
+h Fox V 1 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+h Fox H 2 4 4
+t Fox H 2 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+25
+hoyo 1 1
+t Fox V 1 1 2
+vacio 1 3
+h Fox V 2 1 4
+hoyo 1 5
+vacio 2 1
+h Fox V 1 2 2
+vacio 2 3
+t Fox V 2 2 4
+hongo 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+hongo 3 5
+conejo 4 1
+vacio 4 2
+vacio 4 3
+conejo 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hongo 5 5
+-
+26
+hoyo 1 1
+hongo 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+t Fox H 1 2 1
+h Fox H 1 2 2
+vacio 2 3
+conejo 2 4
+vacio 2 5
+hongo 3 1
+vacio 3 2
+hoyo Conejo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+hongo 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+27
+hoyo Conejo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hongo 1 5
+t Fox H 1 2 1
+h Fox H 1 2 2
+vacio 2 3
+conejo 2 4
+vacio 2 5
+vacio 3 1
+t Fox V 2 3 2
+hoyo 3 3
+vacio 3 4
+vacio 3 5
+hongo 4 1
+h Fox V 2 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hongo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+28
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+conejo 2 2
+vacio 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+h Fox V 1 3 2
+hoyo 3 3
+hongo 3 4
+conejo 3 5
+hongo 4 1
+t Fox V 1 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+29
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+vacio 2 3
+t Fox V 1 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+h Fox V 1 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+conejo 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+hongo 5 3
+vacio 5 4
+hoyo Conejo 5 5
+-
+30
+hoyo 1 1
+t Fox V 1 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+h Fox V 1 2 2
+vacio 2 3
+h Fox H 2 2 4
+t Fox H 2 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+hongo 3 5
+vacio 4 1
+conejo 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+conejo 5 3
+vacio 5 4
+hoyo 5 5
+-
+31
+hoyo 1 1
+hongo 1 2
+hongo 1 3
+vacio 1 4
+hoyo Conejo 1 5
+vacio 2 1
+vacio 2 2
+vacio 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hongo 3 3
+conejo 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+t Fox V 1 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+h Fox V 1 5 4
+hoyo 5 5
+-
+32
+hoyo 1 1
+t Fox V 1 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+hongo 2 1
+h Fox V 1 2 2
+hongo 2 3
+conejo 2 4
+hongo 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+t Fox H 2 4 2
+h Fox H 2 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo Conejo 5 5
+-
+33
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+t Fox H 1 2 1
+h Fox H 1 2 2
+vacio 2 3
+conejo 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+hongo 3 4
+vacio 3 5
+vacio 4 1
+h Fox V 2 4 2
+vacio 4 3
+hongo 4 4
+vacio 4 5
+hoyo 5 1
+t Fox V 2 5 2
+vacio 5 3
+hongo 5 4
+hoyo Conejo 5 5
+-
+34
+hoyo Conejo 1 1
+t Fox V 1 1 2
+vacio 1 3
+h Fox V 2 1 4
+hongo 1 5
+vacio 2 1
+h Fox V 1 2 2
+hongo 2 3
+t Fox V 2 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+conejo 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+35
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+hongo 2 2
+vacio 2 3
+conejo 2 4
+vacio 2 5
+hongo 3 1
+vacio 3 2
+hoyo 3 3
+conejo 3 4
+vacio 3 5
+t Fox H 1 4 1
+h Fox H 1 4 2
+vacio 4 3
+h Fox V 2 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+t Fox V 2 5 4
+hoyo 5 5
+-
+36
+hoyo Conejo 1 1
+vacio 1 2
+vacio 1 3
+hongo 1 4
+hoyo 1 5
+vacio 2 1
+t Fox H 1 2 2
+h Fox H 1 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+hongo 3 2
+hongo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+conejo 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+37
+hoyo 1 1
+t Fox V 1 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+hongo 2 1
+h Fox V 1 2 2
+vacio 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hongo 3 3
+vacio 3 4
+vacio 3 5
+t Fox H 2 4 1
+h Fox H 2 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+conejo 5 3
+vacio 5 4
+hoyo 5 5
+-
+38
+hoyo 1 1
+t Fox V 1 1 2
+hongo 1 3
+h Fox V 2 1 4
+hoyo 1 5
+vacio 2 1
+h Fox V 1 2 2
+hongo 2 3
+t Fox V 2 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hongo 3 3
+vacio 3 4
+vacio 3 5
+conejo 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo Conejo 5 5
+-
+39
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+hongo 1 4
+hoyo 1 5
+t Fox H 1 2 1
+h Fox H 1 2 2
+vacio 2 3
+h Fox H 2 2 4
+t Fox H 2 2 5
+vacio 3 1
+conejo 3 2
+hoyo Conejo 3 3
+conejo 3 4
+hongo 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+hongo 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+40
+hoyo 1 1
+vacio 1 2
+hongo 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+vacio 2 3
+conejo 2 4
+vacio 2 5
+vacio 3 1
+hongo 3 2
+hoyo 3 3
+vacio 3 4
+vacio 3 5
+t Fox H 1 4 1
+h Fox H 1 4 2
+vacio 4 3
+h Fox V 2 4 4
+vacio 4 5
+hongo 5 1
+conejo 5 2
+vacio 5 3
+t Fox V 2 5 4
+hoyo 5 5
+-
+41
+hoyo 1 1
+t Fox V 1 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+h Fox V 1 2 2
+hongo 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+hongo 4 3
+vacio 4 4
+vacio 4 5
+hongo 5 1
+conejo 5 2
+conejo 5 3
+vacio 5 4
+hoyo 5 5
+-
+42
+hoyo Conejo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+t Fox V 1 2 2
+hongo 2 3
+hongo 2 4
+vacio 2 5
+vacio 3 1
+h Fox V 1 3 2
+hoyo 3 3
+hongo 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+conejo 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+43
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+conejo 2 2
+h Fox H 1 2 3
+t Fox H 1 2 4
+conejo 2 5
+vacio 3 1
+hongo 3 2
+hongo 3 3
+hongo 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+44
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+h Fox V 1 2 2
+h Fox H 2 2 3
+t Fox H 2 2 4
+conejo 2 5
+vacio 3 1
+t Fox V 1 3 2
+hongo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+conejo 4 2
+vacio 4 3
+hongo 4 4
+vacio 4 5
+hoyo 5 1
+conejo 5 2
+vacio 5 3
+vacio 5 4
+hongo 5 5
+-
+45
+hongo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+h Fox H 1 2 3
+t Fox H 1 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+conejo 3 5
+vacio 4 1
+conejo 4 2
+conejo 4 3
+t Fox V 2 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+h Fox V 2 5 4
+hoyo 5 5
+-
+46
+hoyo 1 1
+hongo 1 2
+vacio 1 3
+h Fox V 1 1 4
+hoyo 1 5
+hongo 2 1
+hongo 2 2
+vacio 2 3
+t Fox V 1 2 4
+vacio 2 5
+conejo 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+vacio 3 5
+conejo 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+conejo 5 4
+hoyo 5 5
+-
+47
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+t Fox H 1 2 3
+h Fox H 1 2 4
+conejo 2 5
+vacio 3 1
+vacio 3 2
+hongo 3 3
+hongo 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+hongo 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+conejo 5 3
+vacio 5 4
+hoyo 5 5
+-
+48
+hoyo 1 1
+vacio 1 2
+conejo 1 3
+hongo 1 4
+hoyo Conejo 1 5
+vacio 2 1
+hongo 2 2
+hongo 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+vacio 3 5
+conejo 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+conejo 5 3
+vacio 5 4
+hoyo 5 5
+-
+49
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo Conejo 1 5
+t Fox H 1 2 1
+h Fox H 1 2 2
+vacio 2 3
+conejo 2 4
+vacio 2 5
+vacio 3 1
+t Fox V 2 3 2
+hongo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+h Fox V 1 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+conejo 5 4
+hongo 5 5
+-
+50
+hoyo 1 1
+hongo 1 2
+conejo 1 3
+conejo 1 4
+hoyo 1 5
+hongo 2 1
+vacio 2 2
+conejo 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hongo 3 3
+vacio 3 4
+vacio 3 5
+h Fox H 1 4 1
+t Fox H 1 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+51
+hoyo Conejo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+conejo 2 1
+t Fox H 1 2 2
+h Fox H 1 2 3
+t Fox V 2 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+h Fox V 2 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+conejo 4 3
+vacio 4 4
+vacio 4 5
+hongo 5 1
+vacio 5 2
+hongo 5 3
+vacio 5 4
+hongo 5 5
+-
+52
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hongo 1 5
+t Fox H 1 2 1
+h Fox H 1 2 2
+vacio 2 3
+conejo 2 4
+vacio 2 5
+vacio 3 1
+t Fox V 2 3 2
+hoyo 3 3
+vacio 3 4
+conejo 3 5
+vacio 4 1
+h Fox V 2 4 2
+hongo 4 3
+vacio 4 4
+vacio 4 5
+hongo 5 1
+vacio 5 2
+vacio 5 3
+conejo 5 4
+hoyo 5 5
+-
+53
+hoyo 1 1
+conejo 1 2
+vacio 1 3
+conejo 1 4
+hoyo 1 5
+hongo 2 1
+h Fox V 1 2 2
+vacio 2 3
+vacio 2 4
+conejo 2 5
+hongo 3 1
+t Fox V 1 3 2
+hoyo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+h Fox H 2 4 2
+t Fox H 2 4 3
+vacio 4 4
+vacio 4 5
+hongo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+54
+hoyo 1 1
+conejo 1 2
+hongo 1 3
+t Fox V 1 1 4
+hoyo 1 5
+hongo 2 1
+vacio 2 2
+vacio 2 3
+h Fox V 1 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+hongo 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+conejo 5 2
+vacio 5 3
+conejo 5 4
+hoyo 5 5
+-
+55
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+hongo 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo Conejo 3 3
+t Fox V 1 3 4
+vacio 3 5
+conejo 4 1
+vacio 4 2
+conejo 4 3
+h Fox V 1 4 4
+vacio 4 5
+hongo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hongo 5 5
+-
+56
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hongo 1 5
+t Fox H 1 2 1
+h Fox H 1 2 2
+vacio 2 3
+h Fox V 2 2 4
+conejo 2 5
+vacio 3 1
+vacio 3 2
+hongo 3 3
+t Fox V 2 3 4
+vacio 3 5
+conejo 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+hongo 4 5
+hoyo 5 1
+conejo 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+57
+hoyo Conejo 1 1
+vacio 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+conejo 2 2
+vacio 2 3
+h Fox H 1 2 4
+t Fox H 1 2 5
+vacio 3 1
+vacio 3 2
+hongo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+conejo 4 2
+vacio 4 3
+t Fox H 2 4 4
+h Fox H 2 4 5
+hoyo 5 1
+hongo 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+58
+hoyo 1 1
+conejo 1 2
+vacio 1 3
+vacio 1 4
+hongo 1 5
+vacio 2 1
+vacio 2 2
+vacio 2 3
+h Fox V 1 2 4
+vacio 2 5
+conejo 3 1
+vacio 3 2
+hoyo Conejo 3 3
+t Fox V 1 3 4
+hongo 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+h Fox H 2 4 4
+t Fox H 2 4 5
+hongo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hoyo 5 5
+-
+59
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+hongo 1 4
+hoyo 1 5
+t Fox H 1 2 1
+h Fox H 1 2 2
+vacio 2 3
+conejo 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hongo 3 3
+vacio 3 4
+conejo 3 5
+conejo 4 1
+vacio 4 2
+h Fox H 2 4 3
+t Fox H 2 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
+hongo 5 5
+-
+60
+hoyo 1 1
+vacio 1 2
+vacio 1 3
+hongo 1 4
+hoyo 1 5
+t Fox H 1 2 1
+h Fox H 1 2 2
+vacio 2 3
+conejo 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hongo 3 3
+vacio 3 4
+conejo 3 5
+hongo 4 1
+vacio 4 2
+vacio 4 3
+vacio 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+conejo 5 4
+hoyo 5 5
+-
