@@ -1,4 +1,4 @@
-1
+1 2
 hoyo 1 1
 hongo 1 2
 hongo 1 3
@@ -25,7 +25,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-2
+2 3
 hoyo 1 1
 vacio 1 2
 conejo 1 3
@@ -52,7 +52,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-3
+3 4
 hoyo 1 1
 conejo 1 2
 vacio 1 3
@@ -75,11 +75,11 @@ vacio 4 4
 vacio 4 5
 hoyo 5 1
 vacio 5 2
-vacio 5 3
+conejo 5 3
 vacio 5 4
 hoyo 5 5
 -
-4
+4 4
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -106,7 +106,7 @@ vacio 5 3
 hongo 5 4
 hoyo 5 5
 -
-5
+5 5
 hoyo 1 1
 vacio 1 2
 conejo 1 3
@@ -133,7 +133,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-6
+6 6
 hoyo Conejo 1 1
 hongo 1 2
 vacio 1 3
@@ -160,7 +160,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-7
+7 7
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -187,7 +187,7 @@ vacio 5 3
 hongo 5 4
 hoyo Conejo 5 5
 -
-8
+8 7
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -214,7 +214,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-9
+9 8
 hoyo Conejo 1 1
 hongo 1 2
 vacio 1 3
@@ -241,7 +241,7 @@ conejo 5 3
 vacio 5 4
 hoyo 5 5
 -
-10
+10 9
 hoyo Conejo 1 1
 hongo 1 2
 conejo 1 3
@@ -268,7 +268,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-11
+11 10
 hoyo Conejo 1 1
 hongo 1 2
 vacio 1 3
@@ -295,7 +295,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-12
+12 9
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -322,7 +322,7 @@ hongo 5 3
 hongo 5 4
 hoyo 5 5
 -
-13
+13 4
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -349,7 +349,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-14
+14 6
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -376,7 +376,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-15
+15 9
 hoyo 1 1
 vacio 1 2
 hongo 1 3
@@ -403,7 +403,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-16
+16 7
 hoyo 1 1
 conejo 1 2
 vacio 1 3
@@ -430,7 +430,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-17
+17 7
 hoyo 1 1
 h Fox V 1 1 2
 vacio 1 3
@@ -457,7 +457,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-18
+18 8
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -484,7 +484,7 @@ vacio 5 3
 conejo 5 4
 hoyo 5 5
 -
-19
+19 11
 hoyo 1 1
 vacio 1 2
 hongo 1 3
@@ -511,7 +511,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-20
+20 13
 hoyo 1 1
 conejo 1 2
 vacio 1 3
@@ -538,7 +538,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-21
+21 9
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -565,7 +565,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-22
+22 11
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -592,7 +592,7 @@ hongo 5 3
 vacio 5 4
 hoyo 5 5
 -
-23
+23 16
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -619,7 +619,7 @@ hongo 5 3
 vacio 5 4
 hoyo 5 5
 -
-24
+24 15
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -646,7 +646,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-25
+25 13
 hoyo 1 1
 t Fox V 1 1 2
 vacio 1 3
@@ -673,7 +673,7 @@ vacio 5 3
 vacio 5 4
 hongo 5 5
 -
-26
+26 12
 hoyo 1 1
 hongo 1 2
 vacio 1 3
@@ -700,7 +700,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-27
+27 13
 hoyo Conejo 1 1
 vacio 1 2
 vacio 1 3
@@ -727,7 +727,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-28
+28 12
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -754,7 +754,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-29
+29 13
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -781,7 +781,7 @@ hongo 5 3
 vacio 5 4
 hoyo Conejo 5 5
 -
-30
+30 13
 hoyo 1 1
 t Fox V 1 1 2
 vacio 1 3
@@ -808,7 +808,7 @@ conejo 5 3
 vacio 5 4
 hoyo 5 5
 -
-31
+31 17
 hoyo 1 1
 hongo 1 2
 hongo 1 3
@@ -835,7 +835,7 @@ vacio 5 3
 h Fox V 1 5 4
 hoyo 5 5
 -
-32
+32 15
 hoyo 1 1
 t Fox V 1 1 2
 vacio 1 3
@@ -862,7 +862,7 @@ vacio 5 3
 vacio 5 4
 hoyo Conejo 5 5
 -
-33
+33 13
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -889,7 +889,7 @@ vacio 5 3
 hongo 5 4
 hoyo Conejo 5 5
 -
-34
+34 15
 hoyo Conejo 1 1
 t Fox V 1 1 2
 vacio 1 3
@@ -916,7 +916,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-35
+35 14
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -943,7 +943,7 @@ vacio 5 3
 t Fox V 2 5 4
 hoyo 5 5
 -
-36
+36 19
 hoyo Conejo 1 1
 vacio 1 2
 vacio 1 3
@@ -970,7 +970,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-37
+37 21
 hoyo 1 1
 t Fox V 1 1 2
 vacio 1 3
@@ -997,7 +997,7 @@ conejo 5 3
 vacio 5 4
 hoyo 5 5
 -
-38
+38 21
 hoyo 1 1
 t Fox V 1 1 2
 hongo 1 3
@@ -1024,7 +1024,7 @@ vacio 5 3
 vacio 5 4
 hoyo Conejo 5 5
 -
-39
+39 7
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -1051,7 +1051,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-40
+40 19
 hoyo 1 1
 vacio 1 2
 hongo 1 3
@@ -1078,7 +1078,7 @@ vacio 5 3
 t Fox V 2 5 4
 hoyo 5 5
 -
-41
+41 20
 hoyo 1 1
 t Fox V 1 1 2
 vacio 1 3
@@ -1105,7 +1105,7 @@ conejo 5 3
 vacio 5 4
 hoyo 5 5
 -
-42
+42 17
 hoyo Conejo 1 1
 vacio 1 2
 vacio 1 3
@@ -1132,7 +1132,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-43
+43 26
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -1159,7 +1159,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-44
+44 19
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -1186,7 +1186,7 @@ vacio 5 3
 vacio 5 4
 hongo 5 5
 -
-45
+45 21
 hongo 1 1
 vacio 1 2
 vacio 1 3
@@ -1213,7 +1213,7 @@ vacio 5 3
 h Fox V 2 5 4
 hoyo 5 5
 -
-46
+46 19
 hoyo 1 1
 hongo 1 2
 vacio 1 3
@@ -1240,7 +1240,7 @@ vacio 5 3
 conejo 5 4
 hoyo 5 5
 -
-47
+47 24
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -1267,7 +1267,7 @@ conejo 5 3
 vacio 5 4
 hoyo 5 5
 -
-48
+48 28
 hoyo 1 1
 vacio 1 2
 conejo 1 3
@@ -1294,7 +1294,7 @@ conejo 5 3
 vacio 5 4
 hoyo 5 5
 -
-49
+49 36
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -1321,7 +1321,7 @@ vacio 5 3
 conejo 5 4
 hongo 5 5
 -
-50
+50 23
 hoyo 1 1
 hongo 1 2
 conejo 1 3
@@ -1348,7 +1348,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-51
+51 27
 hoyo Conejo 1 1
 vacio 1 2
 vacio 1 3
@@ -1375,7 +1375,7 @@ hongo 5 3
 vacio 5 4
 hongo 5 5
 -
-52
+52 34
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -1402,7 +1402,7 @@ vacio 5 3
 conejo 5 4
 hoyo 5 5
 -
-53
+53 33
 hoyo 1 1
 conejo 1 2
 vacio 1 3
@@ -1429,7 +1429,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-54
+54 22
 hoyo 1 1
 conejo 1 2
 hongo 1 3
@@ -1456,7 +1456,7 @@ vacio 5 3
 conejo 5 4
 hoyo 5 5
 -
-55
+55 32
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -1483,7 +1483,7 @@ vacio 5 3
 vacio 5 4
 hongo 5 5
 -
-56
+56 43
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -1510,7 +1510,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-57
+57 55
 hoyo Conejo 1 1
 vacio 1 2
 vacio 1 3
@@ -1537,7 +1537,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-58
+58 67
 hoyo 1 1
 conejo 1 2
 vacio 1 3
@@ -1564,7 +1564,7 @@ vacio 5 3
 vacio 5 4
 hoyo 5 5
 -
-59
+59 63
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -1591,7 +1591,7 @@ vacio 5 3
 vacio 5 4
 hongo 5 5
 -
-60
+60 87
 hoyo 1 1
 vacio 1 2
 vacio 1 3
@@ -1616,5 +1616,32 @@ hoyo 5 1
 vacio 5 2
 vacio 5 3
 conejo 5 4
+hoyo 5 5
+-
+61 0
+hoyo Conejo 1 1
+hongo 1 2
+vacio 1 3
+vacio 1 4
+hoyo 1 5
+vacio 2 1
+vacio 2 2
+hongo 2 3
+vacio 2 4
+vacio 2 5
+vacio 3 1
+vacio 3 2
+hoyo 3 3
+vacio 3 4
+vacio 3 5
+vacio 4 1
+vacio 4 2
+vacio 4 3
+hongo 4 4
+vacio 4 5
+hoyo 5 1
+vacio 5 2
+vacio 5 3
+vacio 5 4
 hoyo 5 5
 -
